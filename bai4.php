@@ -1,5 +1,9 @@
 <?php
   $thongtinsanpham = array(
-    'mã sp' => array('tên', 'ngày đăng', 'giá tiền'),
+    'mã sp' => array(
+      'tên' => '........' ,
+      'ngày đăng' => '.......' ,
+      'giá tiền' => '........' ,
+      ),
    );
   ?>
