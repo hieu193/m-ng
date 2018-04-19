@@ -5,5 +5,5 @@
     $ngaysx = array('ngày sản xuất');
     $thongtinsp = array('thông tin sản phẩm')
     $gia = array('giá bán',);
-   );
+  
   ?>
